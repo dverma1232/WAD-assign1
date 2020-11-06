@@ -1,1 +1,2 @@
-# WAD-assign1
+# Web Application Development - Assignment 1
+My first assignment for the Web Application Development unit at uni. The task was pretty simple, create a job posting system. This system will allow users to enter details about a job vacancy, and saved them to a text file. These postings can also be searched using various criteria and all matched postings will be displayed on a page. For this assignment, I was required to use HTML, CSS and PHP. 
